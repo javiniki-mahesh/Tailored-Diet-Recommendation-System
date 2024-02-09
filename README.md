@@ -28,14 +28,18 @@ Feel free to explore the Jupyter Notebook or Python script in the `src` director
    pip install numpy
    pip install matplotlib
    pip install seaborn
+```
+# Model Training
 
-# Diet Recommendation System
+## Overview
 
-This Folder specifically for model Training and Testing 
-## Installation required libraries
+This section outlines the steps to train the machine learning model for your project. Make sure to follow these instructions to reproduce or adapt the model.
 
-1. Install pandas:
-   ```bash
+## Installation
+
+Before running the model training code, ensure you have the required dependencies installed. You can install them using the following commands:
+
+```bash
    pip install pandas
    pip install numpy
    pip install matplotlib
